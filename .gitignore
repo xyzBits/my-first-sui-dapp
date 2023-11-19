@@ -1,0 +1,5 @@
+# Project exclude paths
+/move/counter/build/
+./.idea
+./pnpm-lock.yaml
+/move/counter/Move.lock
